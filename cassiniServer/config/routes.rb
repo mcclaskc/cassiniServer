@@ -1,4 +1,7 @@
 CassiniServer::Application.routes.draw do
+
+  get "api/availability" 
+  get "api/data"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
