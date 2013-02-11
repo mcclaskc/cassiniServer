@@ -431,3 +431,4 @@ Started GET "/api/data" for 127.0.0.1 at 2013-02-11 08:14:37 -0700
 Processing by ApiController#data as HTML
 Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms)
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
